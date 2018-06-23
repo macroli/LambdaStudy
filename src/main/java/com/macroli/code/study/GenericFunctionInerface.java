@@ -6,6 +6,7 @@ public class GenericFunctionInerface {
         CompareGeneric<Integer> compareGeneric = (x, y) -> x > y ? x : y;
 
         System.out.println(compareGeneric.compare(5, 8));
+
     }
 
     @FunctionalInterface
