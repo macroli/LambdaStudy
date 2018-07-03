@@ -1,0 +1,15 @@
+{
+  "case_path":[
+    {
+      "case_name":"caseA",
+      "downstream_mock_data":"",
+      "expect":"expectResult"
+    },
+    {
+      "case_name":"caseB",
+      "downstream_mock_data":"",
+      "expect":"expectResult"
+    }
+
+  ]
+}
